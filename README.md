@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEO
 
 Platform Used- Google Collab.
 
-Classification Algorithm used-The model is built on Multinomial Naive Baise Classifier.
+Classification Algorithm used-The model is built on Multinomial Naive Bayes Classifier.
 
 Assumptions:Only five product category data is considered from the total set.
 
