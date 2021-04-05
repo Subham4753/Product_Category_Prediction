@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=O2L2Uv9pdDA
 
 Gaussian NB:https://www.youtube.com/watch?v=H3EjCKtlVog
 
+source code:https://github.com/Subham4753/Product_Category_Prediction/edit/main/README.md
+
 
     
 
