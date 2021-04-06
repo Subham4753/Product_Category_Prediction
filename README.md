@@ -30,7 +30,7 @@ source code: https://github.com/Subham4753/Product_Category_Prediction
               
    2.After that go the ‘File’ option at the ‘top-right’ . click on this and click again on open notebook.
 
-   3.After that go to fourth option in the header ‘GITHUB’ and paste this link  "https://github.com/Subham4753/Product_Category_Prediction/blob/main/Product_category_prediction.ipynb "  in the search box and press enter.
+   3.After that go to fourth option in the header ‘GITHUB’ and paste this link  https://github.com/Subham4753/Product_Category_Prediction/blob/main/Product_category_prediction.ipynb   in the search box and press enter.
 
    4.You will be able to see Your Github ‘.ipynb’ file .
     
