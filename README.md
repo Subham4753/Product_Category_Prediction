@@ -20,19 +20,19 @@ https://www.youtube.com/watch?v=O2L2Uv9pdDA
 
 Gaussian NB: https://www.youtube.com/watch?v=H3EjCKtlVog
 
-source code: https://github.com/Subham4753/Product_Category_Prediction
+Source code: https://github.com/Subham4753/Product_Category_Prediction
 
 ## **Note- Sometimes while opening our .ipynb file in github repository,we get " Sorry, something went wrong. Reload?"**
 
 **Solution-**
 
-   1. Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. 
+1. Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. 
               
-   2.After that go the ‘File’ option at the ‘top-right’ . click on this and click again on open notebook.
+2.After that go the ‘File’ option at the ‘top-right’ . click on this and click again on open notebook.
 
-   3.After that go to fourth option in the header ‘GITHUB’ and paste this link  https://github.com/Subham4753/Product_Category_Prediction/blob/main/Product_category_prediction.ipynb   in the search box and press enter.
+3.After that go to fourth option in the header ‘GITHUB’ and paste this link  https://github.com/Subham4753/Product_Category_Prediction/blob/main/Product_category_prediction.ipynb   in the search box and press enter.
 
-   4.You will be able to see Your Github ‘.ipynb’ file .
+4.You will be able to see Your Github ‘.ipynb’ file .
     
 
     
