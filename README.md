@@ -15,8 +15,6 @@ https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEO
 
 **References :**
 
-Dataset- https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
-
 Naive Bayes Classifier- https://www.geeksforgeeks.org/naive-bayes-classifiers/
 https://www.youtube.com/watch?v=O2L2Uv9pdDA
 
