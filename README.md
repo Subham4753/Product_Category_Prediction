@@ -24,7 +24,7 @@ Gaussian NB: https://www.youtube.com/watch?v=H3EjCKtlVog
 
 source code: https://github.com/Subham4753/Product_Category_Prediction
 
-## **Note**- ### **Sometimes while opening our .ipynb file in github repository,we get " Sorry, something went wrong. Reload?"**
+## **Note- Sometimes while opening our .ipynb file in github repository,we get " Sorry, something went wrong. Reload?"**
 
 **Solution-** 1. Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. 
               
