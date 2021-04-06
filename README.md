@@ -26,6 +26,7 @@ Source code: https://github.com/Subham4753/Product_Category_Prediction
 
 **Solution-**
 
+
 1. Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. 
               
 2.After that go the ‘File’ option at the ‘top-right’ . click on this and click again on open notebook.
