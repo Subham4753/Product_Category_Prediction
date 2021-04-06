@@ -2,7 +2,7 @@
 
 Welcome to this repository! 
 
-**Objective-->** The objective of this project is to build a model to predict the category using description.
+**Objective-->** The objective of this project is to build a model to predict the product category using description.
 The data used in this repo has been taken from (link below).
 
 https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
@@ -26,7 +26,9 @@ source code: https://github.com/Subham4753/Product_Category_Prediction
 
 ## **Note- Sometimes while opening our .ipynb file in github repository,we get " Sorry, something went wrong. Reload?"**
 
-**Solution-** 1. Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. 
+**Solution-**
+
+1. Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser. 
               
    2.After that go the ‘File’ option at the ‘top-right’ . click on this and click again on open notebook.
 
